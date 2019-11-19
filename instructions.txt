@@ -1,7 +1,6 @@
 * chop avocados
 * chop onion
 * burn the onions
-* chop the carrots
 * squeeze lime
 * add salt
 * and mix well
